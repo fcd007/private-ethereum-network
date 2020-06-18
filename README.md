@@ -6,7 +6,7 @@
 
 Lançada em 2015, Ethereum é a principal blockchain programável do mundo.
 
-* Rede privada e teste *
+*Rede privada e teste*
  
 *Índice*
 * Construir rede privada
