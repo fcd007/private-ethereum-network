@@ -31,6 +31,7 @@ Crie seu arquivo genesis.json execute com
 
 Abra a pasta que foi criada para armazenar os dados
 `./geth --datadir /home/usuario/armazenamento/ init genesis.json `
+
 Após essa etapa poderá ver duas pastas geth e keystore em sua pasta de armazenamento.
 
 ###### Executar rede privada
