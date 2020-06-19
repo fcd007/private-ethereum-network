@@ -21,17 +21,17 @@ Lançada em 2015, Ethereum é a principal blockchain programável do mundo.
 Execute os seguintes passos:
 
 ###### Download e instalação geth
-Execute o comando 'make all' ou 'make geth'
+Execute o comando `make all` ou `make geth`
 Dentro do diretório  go-ethereum
-Vá até a pasta '/go-ethereum/build/bin/' pode ver o arquivo geth
+Vá até a pasta `/go-ethereum/build/bin/` pode ver o arquivo geth
 
 ###### Inicialize a rede privada
 Crie seu arquivo genesis.json execute com 
-'touch genesis.json' ou 'nano genesis.json'
+`touch genesis.json ` ou `nano genesis.json`
 
 Abra a pasta que foi criada para armazenar os dados
-'./geth --datadir /home/usuario/armazenamento/  init genesis.json'
+`./geth --datadir /home/usuario/armazenamento/ init genesis.json `
 Após essa etapa poderá ver duas pastas geth e keystore em sua pasta de armazenamento.
 
 ###### Executar rede privada
-Execute './geth --datadir /home/usuario/armazenamento/ --networkid xx console'
+Execute `./geth --datadir /home/usuario/armazenamento/ --networkid xx console `
